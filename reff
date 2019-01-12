@@ -1,0 +1,57 @@
+<br />
+<style>
+.Khung .khung-ke-tip {
+display: grid;
+grid-template-columns: 1fr 75px;
+grid-gap: 5px;
+align-items: center;
+padding: 12px
+}
+.Khung .khung-ke-tip img {
+max-width: 100%
+}
+.Khung .khung-ke-tip .tieu-de {
+font-weight: 500;
+line-height: 1.5em;
+font-size: 1.1em
+}
+.Khung .khung-giua {
+padding: 16px
+}
+.Khung .khung-giua .text-hay {
+letter-spacing: .09em;
+font-size: 1em;
+margin-bottom: 1.1em;
+line-height: 1.4em
+}
+.Khung .khung-giua .button___khung {
+display: block;
+background-color: #4caf50;
+width: 100%;
+color: #fff;
+text-align: center;
+padding: 10px 0;
+text-transform: uppercase;
+font-weight: 300;
+letter-spacing: .1em
+}
+.Khung .khung-giua .button___khung:hover {
+cursor: pointer;
+background-color: #449d48
+}
+</style>
+
+<div class="Khung">
+<div class="khung-ke-tip" style="background-color: #006b58;">
+<div style="color: white;">
+<span class="tieu-de">Các bạn nhớ nhập mã giới thiệu giúp mình nhé ! </span>
+        </div>
+ 
+</div>
+<div class="khung-giua" style="background-color: #00513d; color: white;">
+<div class="text-hay">
+My Code Ref : 38893</div>
+
+</div>
+</div>
+<br />
